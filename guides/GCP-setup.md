@@ -1,4 +1,4 @@
-This guide walks you through setting up a shared GCP project for *Elements of Data Visualization*. Only one person per group needs to complete the setup.
+This guide walks you through setting up a shared GCP project for *Foundation of Data Warehousing*. Only one person per group needs to complete the setup.
 
 ### Create a GCP project
 
